@@ -1,0 +1,25 @@
+# Table of contents
+
+* [🏠 Home](README.md)
+
+## plugins
+
+* [🕵️ BlackMarket](plugins/blackmarket/README.md)
+  * [📥 Installation & Setup](plugins/blackmarket/installation-and-setup.md)
+  * [📦 Items Configuration](plugins/blackmarket/items-configuration.md)
+  * [🔑 Commands & Permissions](plugins/blackmarket/commands-and-permissions.md)
+  * [🎨 GUI Customization](plugins/blackmarket/gui-customization.md)
+  * [🌐 Messages & Localization](plugins/blackmarket/messages-and-localization.md)
+  * [💾 Database](plugins/blackmarket/database.md)
+  * [🔗 Redis & Cross-Server Synchronization](plugins/blackmarket/redis-and-cross-server-synchronization.md)
+  * [💰 Economy Integration](plugins/blackmarket/economy-integration.md)
+  * [🏷️ Placeholders](plugins/blackmarket/placeholders.md)
+  * [🔧 Troubleshooting Guide](plugins/blackmarket/troubleshooting-guide.md)
+  * [❓ Frequently Asked Questions](plugins/blackmarket/frequently-asked-questions.md)
+* [⚔️ DonutDuels](plugins/donutduels/README.md)
+  * [📥 Installation & Setup](plugins/donutduels/installation-and-setup.md)
+* [🚕 Taxi](plugins/taxi/README.md)
+  * [📥 Installation & Setup](plugins/taxi/installation-and-setup.md)
+  * [🔑 Commands & Permissions](plugins/taxi/commands-and-permissions.md)
+* [TownyDiscord](plugins/townydiscord.md)
+* [TownyWarps](plugins/townywarps.md)
