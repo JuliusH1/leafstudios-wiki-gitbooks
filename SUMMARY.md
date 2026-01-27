@@ -18,6 +18,7 @@
   * [❓ Frequently Asked Questions](plugins/blackmarket/frequently-asked-questions.md)
 * [⚔️ DonutDuels](plugins/donutduels/README.md)
   * [📥 Installation & Setup](plugins/donutduels/installation-and-setup.md)
+  * [🔑 Commands & Permissions](plugins/donutduels/commands-and-permissions.md)
 * [🚕 Taxi](plugins/taxi/README.md)
   * [📥 Installation & Setup](plugins/taxi/installation-and-setup.md)
   * [🔑 Commands & Permissions](plugins/taxi/commands-and-permissions.md)
