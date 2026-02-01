@@ -307,7 +307,7 @@ After setup, verify everything works:
 ### 💬 Need Help?
 
 * **Discord**: [Join our Discord](https://leafstudios.dev/discord)
-* **Wiki**: [Full Documentation](./)
+* **Wiki**: [Full Documentation](../blockyjoin.md)
 * **Support**: support@leafstudios.dev
 
 ***

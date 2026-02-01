@@ -1,9 +1,3 @@
----
-description: >-
-  This guide will walk you through installing BlockyJoin on your Minecraft
-  server.
----
-
 # 📥 Installation & Setup
 
 ### 📋 Requirements

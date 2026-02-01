@@ -470,5 +470,5 @@ BlockyJoin is a per-server plugin. Install it on each backend server where you w
 
 ### Still Have Questions?
 
-* 📚 Check the [Full Wiki](./)
+* 📚 Check the [Full Wiki](../blockyjoin.md)
 * 💬 Join our [Discord](https://leafstudios.dev/discord)

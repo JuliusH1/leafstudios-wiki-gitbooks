@@ -1,8 +1,5 @@
 ---
-description: >-
-  Welcome to the official BlockyJoin documentation! This wiki provides
-  comprehensive information about installing, configuring, and using BlockyJoin.
-cover: ../../.gitbook/assets/BlockyJoin (3).png
+cover: ../.gitbook/assets/BlockyJoin (3).png
 coverY: 0
 coverHeight: 382
 layout:
@@ -52,20 +49,20 @@ BlockyJoin is a premium, high-performance join/leave message plugin for Paper/Fo
 
 #### Getting Started
 
-* [Installation Guide](installation-and-setup.md)
-* [Quick Start Guide](quick-start.md)
-* [Commands & Permissions](commands-and-permissions.md)
+* [Installation Guide](blockyjoin/installation-and-setup.md)
+* [Quick Start Guide](blockyjoin/quick-start.md)
+* [Commands & Permissions](blockyjoin/commands-and-permissions.md)
 
 #### Advanced
 
-* [Placeholders](placeholders.md)
-* [Creating Custom Message Sets](creating-message-sets.md)
-* [GUI Customization](gui-customization.md)
+* [Placeholders](blockyjoin/placeholders.md)
+* [Creating Custom Message Sets](blockyjoin/creating-message-sets.md)
+* [GUI Customization](blockyjoin/gui-customization.md)
 
 #### Support
 
-* [FAQ](frequently-asked-questions.md)
-* [Troubleshooting](frequently-asked-questions.md#troubleshooting)
+* [FAQ](blockyjoin/frequently-asked-questions.md)
+* [Troubleshooting](blockyjoin/frequently-asked-questions.md#troubleshooting)
 
 ### 🎮 Quick Example
 

@@ -16,7 +16,7 @@
   * [🏷️ Placeholders](plugins/blackmarket/placeholders.md)
   * [🔧 Troubleshooting Guide](plugins/blackmarket/troubleshooting-guide.md)
   * [❓ Frequently Asked Questions](plugins/blackmarket/frequently-asked-questions.md)
-* [👋 BlockyJoin](plugins/blockyjoin/README.md)
+* [👋 BlockyJoin](plugins/blockyjoin.md)
   * [📥 Installation & Setup](plugins/blockyjoin/installation-and-setup.md)
   * [🔌 Quick Start](plugins/blockyjoin/quick-start.md)
   * [🔑 Commands & Permissions](plugins/blockyjoin/commands-and-permissions.md)
