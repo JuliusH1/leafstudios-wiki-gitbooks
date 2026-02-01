@@ -16,6 +16,7 @@
   * [🏷️ Placeholders](plugins/blackmarket/placeholders.md)
   * [🔧 Troubleshooting Guide](plugins/blackmarket/troubleshooting-guide.md)
   * [❓ Frequently Asked Questions](plugins/blackmarket/frequently-asked-questions.md)
+* [BlockyJoin](plugins/blockyjoin.md)
 * [⚔️ DonutDuels](plugins/donutduels/README.md)
   * [📥 Installation & Setup](plugins/donutduels/installation-and-setup.md)
   * [🔑 Commands & Permissions](plugins/donutduels/commands-and-permissions.md)
